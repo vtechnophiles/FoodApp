@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  FoodApp
+
+  Created by V-TechnoZ on 10/08/22.
+  
+*/
+
+"title" = "Nahrungsmittel";
+"Burrito" = "Burrito";
+"FrenchFries" = "Pommes frittes";
+"Hamburger" = "Hamburger";
+"Hotdog" = "Hotdog";
+"Muffins" = "Muffins";
+"Noodles" = "Nudeln";
+"Pizza" = "Pizza";
+"Sandwich" = "Sandwich";
